@@ -1,0 +1,24 @@
+.container{
+    border-bottom: 3px solid rgba(146, 168, 209,.5);
+    margin: 0 2.5%;
+}
+.header{
+    display: flex;
+    justify-content: left;
+    width: 90%;
+    margin: 1.5% 2.5%;
+}
+.selectTutor{
+    display: flex;
+    justify-content: left;
+    width: 90%;
+    margin: 1.5% 2.5%;
+    font-size: 18px;
+}
+.inputField{
+    display: flex;
+    justify-content: left;
+    width: 90%;
+    margin: 1.5% 2.5%;
+    font-size: 18px;
+}

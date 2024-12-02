@@ -1,0 +1,14 @@
+.container{
+    display:flex;
+    margin: 20px 20px;
+    border-bottom: 1.5px solid rgba(106, 130, 147, 0.372);
+}
+.theName{
+    font-weight: 700;
+    font-size: 22px;
+}
+.contactInfo{
+    margin-left: 25px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}

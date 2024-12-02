@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    justify-content: left;
+    margin-top: 3%;
+    border-bottom: 2px solid grey;
+}
+.info{
+    width: 90%;
+    margin-top: 2px;
+    font-size: 18px;
+}
