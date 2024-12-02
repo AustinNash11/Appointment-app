@@ -2,7 +2,6 @@ import React from "react";
 import styles from "./AppointmentPage.module.css"
 import { useState } from "react";
 import AppointmentForm from "../components/appointmentForm/AppointmentForm";
-import contact from "./ContactPage";
 function AppointmentPage({contact}){
     const [appointmentDetails, setAppointmentDetails] = useState([]);
     return(

@@ -1,5 +1,4 @@
 import React from "react";
-import { useState } from "react";
 import ContactForm from "../components/contactForm/ContactForm";
 import styles from "./ContactPage.module.css";
 function ContactPage({contact, setContact}){
