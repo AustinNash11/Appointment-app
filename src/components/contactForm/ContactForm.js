@@ -7,13 +7,13 @@ function ContactForm({setContact, contact}){
     const [email, setEmail] = useState("");
 
     const handleChange = (e) =>{
-        if(e.target.id == 'name'){
+        if(e.target.id === 'name'){
             setName(e.target.value);
         }
-        else if(e.target.id == 'phone'){
+        else if(e.target.id === 'phone'){
             setPhone(e.target.value);
         }
-        else if(e.target.id == 'email'){
+        else if(e.target.id === 'email'){
             setEmail(e.target.value);
         }
     }
